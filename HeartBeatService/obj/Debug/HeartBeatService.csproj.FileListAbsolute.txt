@@ -1,0 +1,12 @@
+E:\测试项目\HeartBeat\HeartBeatService\bin\Debug\HeartBeatService.exe.config
+E:\测试项目\HeartBeat\HeartBeatService\bin\Debug\HeartBeatService.exe
+E:\测试项目\HeartBeat\HeartBeatService\bin\Debug\HeartBeatService.pdb
+E:\测试项目\HeartBeat\HeartBeatService\bin\Debug\ClientService.exe
+E:\测试项目\HeartBeat\HeartBeatService\bin\Debug\SearhService.exe
+E:\测试项目\HeartBeat\HeartBeatService\bin\Debug\Common.dll
+E:\测试项目\HeartBeat\HeartBeatService\bin\Debug\ClientService.pdb
+E:\测试项目\HeartBeat\HeartBeatService\bin\Debug\SearhService.pdb
+E:\测试项目\HeartBeat\HeartBeatService\bin\Debug\Common.pdb
+E:\测试项目\HeartBeat\HeartBeatService\obj\Debug\ResolveAssemblyReference.cache
+E:\测试项目\HeartBeat\HeartBeatService\obj\Debug\HeartBeatService.exe
+E:\测试项目\HeartBeat\HeartBeatService\obj\Debug\HeartBeatService.pdb

@@ -1,0 +1,7 @@
+E:\测试项目\HeartBeat\Test\bin\Debug\Test.exe
+E:\测试项目\HeartBeat\Test\bin\Debug\Test.pdb
+E:\测试项目\HeartBeat\Test\bin\Debug\Common.dll
+E:\测试项目\HeartBeat\Test\bin\Debug\Common.pdb
+E:\测试项目\HeartBeat\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\测试项目\HeartBeat\Test\obj\x86\Debug\Test.exe
+E:\测试项目\HeartBeat\Test\obj\x86\Debug\Test.pdb

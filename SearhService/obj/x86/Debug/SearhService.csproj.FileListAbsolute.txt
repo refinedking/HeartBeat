@@ -1,0 +1,8 @@
+E:\测试项目\HeartBeat\SearhService\bin\Debug\SearhService.exe.config
+E:\测试项目\HeartBeat\SearhService\bin\Debug\SearhService.exe
+E:\测试项目\HeartBeat\SearhService\bin\Debug\SearhService.pdb
+E:\测试项目\HeartBeat\SearhService\bin\Debug\Common.dll
+E:\测试项目\HeartBeat\SearhService\bin\Debug\Common.pdb
+E:\测试项目\HeartBeat\SearhService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\测试项目\HeartBeat\SearhService\obj\x86\Debug\SearhService.exe
+E:\测试项目\HeartBeat\SearhService\obj\x86\Debug\SearhService.pdb
